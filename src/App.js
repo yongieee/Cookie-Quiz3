@@ -54,7 +54,7 @@ function AppRoutes() {
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/Cookie-Quiz3">
       <AppRoutes />
     </Router>
   );
