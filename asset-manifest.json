@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Cookie-Quiz3/static/css/main.a3710638.css",
+    "main.css": "/Cookie-Quiz3/static/css/main.5068fecf.css",
     "main.js": "/Cookie-Quiz3/static/js/main.d995c75a.js",
     "static/media/home-gif.gif": "/Cookie-Quiz3/static/media/home-gif.00ebde445cbb4c6d73d8.gif",
     "static/media/loading2.gif": "/Cookie-Quiz3/static/media/loading2.409296a2566f0c4da20a.gif",
@@ -35,11 +35,11 @@
     "static/media/berry.jpg": "/Cookie-Quiz3/static/media/berry.60a4df3a2c7d7f921746.jpg",
     "static/media/lily.jpg": "/Cookie-Quiz3/static/media/lily.44cbc9546be8285d1cd6.jpg",
     "index.html": "/Cookie-Quiz3/index.html",
-    "main.a3710638.css.map": "/Cookie-Quiz3/static/css/main.a3710638.css.map",
+    "main.5068fecf.css.map": "/Cookie-Quiz3/static/css/main.5068fecf.css.map",
     "main.d995c75a.js.map": "/Cookie-Quiz3/static/js/main.d995c75a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3710638.css",
+    "static/css/main.5068fecf.css",
     "static/js/main.d995c75a.js"
   ]
 }
